@@ -1,5 +1,7 @@
 <img src="https://i.imgur.com/NExbgi6.png">
 
+<p style="text-align: center;">Where ambition meets coding</p>
+
 <!--
 
 **Here are some ideas to get you started:**
