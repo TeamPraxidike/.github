@@ -1,6 +1,8 @@
 <img src="https://i.imgur.com/0KvmChT.png">
 
-## Praxidike is an IT team with great experience and knowledge in AI and Web Development. We take details into consideration and finalize a covet project.
+## Praxidike
+
+Praxidike is an IT team with great experience and knowledge in AI and Web Development. We take details into consideration and finalize a covet project.
 
 
 <!--
