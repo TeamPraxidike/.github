@@ -1,4 +1,4 @@
-![Praxidike Logo](./assets/stupidLogo.png)
+<img src="https://i.imgur.com/NExbgi6.png">
 
 <!--
 
