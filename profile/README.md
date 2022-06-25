@@ -1,4 +1,4 @@
-# ![Praxidike Logo](/assets/stupidLogo.png)
+![Praxidike Logo](/assets/stupidLogo.png)
 
 <!--
 
