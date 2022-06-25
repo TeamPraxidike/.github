@@ -1,6 +1,4 @@
-# Hi there 👋
-
-We are Praxidike. We 
+# ![Praxidike Logo](./assets/stupidLogo.png)
 
 <!--
 
