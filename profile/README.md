@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/NExbgi6.png">
 
-<p style="text-align: center;">Where ambition meets coding</p>
+<p align="center">Where ambition meets coding</p>
 
 <!--
 
